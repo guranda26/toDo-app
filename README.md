@@ -11,7 +11,7 @@ This is a simple ToDo application built with HTML, CSS, and JavaScript. It allow
 
 ## Deployment
 
-**(Deploy Link)[https://to-do-app-bay-gamma.vercel.app/]**
+**[Deploy Link](https://to-do-app-bay-gamma.vercel.app/)**
 
 ## Installation
 
