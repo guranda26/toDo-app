@@ -9,9 +9,9 @@ This is a simple ToDo application built with HTML, CSS, and JavaScript. It allow
 - **Clear All**: Users can clear the entire list of tasks.
 - **Dynamic Rendering**: The list updates dynamically as tasks are added or removed.
 
-## Deploy Link
+## Deployment
 
-**https://to-do-app-bay-gamma.vercel.app/**
+**(Deploy Link)[https://to-do-app-bay-gamma.vercel.app/]**
 
 ## Installation
 
